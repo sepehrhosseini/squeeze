@@ -74,3 +74,13 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "jwt", "~> 2.4"
+
+gem "rack-cors", "~> 1.1"
+
+gem "pg", "~> 1.4"
+
+gem "auth0", "~> 5.8"
+
+gem "dotenv-rails", "~> 2.7"
